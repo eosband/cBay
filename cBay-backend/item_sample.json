@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "price": 10.0,
+      "name": "pants",
+      "category": "clothes",
+      "description": "jogger style, grey, cornell logo",
+      "seller": "talia",
+      "offers": []
+    },
+    {
+      "id": 2,
+      "price": 20.0,
+      "name": "skateboard",
+      "category": "misc",
+      "description": "standard size skateboard with blue underside",
+      "seller": "talia",
+      "offers": []
+    },
+    {
+      "id": 3,
+      "price": 60.0,
+      "name": "math textbook",
+      "category": "textbooks",
+      "description": "textbook for linear algebra class (MATH 2940)",
+      "seller": "rachael",
+      "offers": []
+    },
+    {
+      "id": 4,
+      "price": 15.0,
+      "name": "cleats",
+      "category": "misc",
+      "description": "lightly used, size 7, women's soccer cleats",
+      "seller": "rachael",
+      "offers": []
+    },
+    {
+      "id": 5,
+      "price": 30.0,
+      "name": "apple pen",
+      "category": "misc",
+      "description": "apple pen meant for usage on the iPad Pro",
+      "seller": "eric",
+      "offers": [
+        {
+          "buyer": "tedi",
+          "price": 25.0,
+          "item id": 5,
+          "id": "5-1"
+        },
+        {
+          "buyer": "talia",
+          "price": 23.0,
+          "item id": 5,
+          "id": "5-2"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "price": 13.0,
+      "name": "hat",
+      "category": "clothes",
+      "description": "white baseball gap with blue logo",
+      "seller": "eric",
+      "offers": []
+    },
+    {
+      "id": 7,
+      "price": 15.0,
+      "name": "cs textbook",
+      "category": "textbooks",
+      "description": "The Pragmatic Programmer, used in CS 3110",
+      "seller": "tedi",
+      "offers": [
+        {
+          "buyer": "rachael",
+          "price": 10.0,
+          "item id": 7,
+          "id": "7-1"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "price": 50.0,
+      "name": "pants",
+      "category": "clothes",
+      "description": "black lululemon pants",
+      "seller": "tedi",
+      "offers": []
+    }
+  ],
+  "counter": 9
+}

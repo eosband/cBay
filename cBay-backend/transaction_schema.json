@@ -1,0 +1,72 @@
+{
+  "type": "object",
+  "properties": {
+    "transactions": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "int"
+            },
+            "price": {
+              "type": "float"
+            },
+            "name": {
+              "type": "string"
+            },
+            "buyer": {
+              "type": "string"
+            },
+            "seller": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "item id",
+            "price",
+            "name",
+            "buyer",
+            "seller"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "int"
+            },
+            "item id": {
+              "type": "int"
+            },
+            "price": {
+              "type": "float"
+            },
+            "name": {
+              "type": "string"
+            },
+            "buyer": {
+              "type": "string"
+            },
+            "seller": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "item id",
+            "price",
+            "name",
+            "buyer",
+            "seller"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "transactions"
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "talia", "password": "cool", "listed": [ 1, 2 ] },
+  { "id": "rachael", "password": "fast", "listed": [ 3, 4 ] },
+  { "id": "eric", "password": "alabama", "listed": [ 5, 6 ] },
+  { "id": "tedi", "password": "squid", "listed": [ 7, 8 ] }
+]

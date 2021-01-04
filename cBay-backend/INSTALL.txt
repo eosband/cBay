@@ -1,0 +1,8 @@
+1. Have a working ocaml/opam environment on computer with yojson, ounit, and 
+bisect packages.
+2. Run 'opam install ppx_deriving_yojson'
+3. Run 'opam install cohttp-lwt-unix' to install server packages
+4. Run 'make clean'
+5. Run 'make build'
+6. Run 'make server' to run server locally on port 8000
+

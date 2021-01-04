@@ -1,0 +1,41 @@
+{
+<<<<<<< HEAD
+  "users": [
+    {
+      "id": "tedi",
+      "password": "squid",
+      "listed": [
+        13
+      ]
+    },
+    {
+      "id": "rachael",
+      "password": "fast",
+      "listed": []
+    },
+    {
+      "id": "eric",
+      "password": "alabama",
+      "listed": []
+    },
+    {
+      "id": "talia",
+      "password": "cool",
+      "listed": []
+    },
+    {
+      "id": "gus",
+      "password": "cocunutoil",
+      "listed": []
+    },
+    {
+      "id": "word",
+      "password": "bruh",
+      "listed": []
+    }
+  ]
+}
+=======
+  "users": []
+}
+>>>>>>> 3c436f1f12fef8768c50a24c2f675859d8297e2d
