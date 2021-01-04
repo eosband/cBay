@@ -1,0 +1,36 @@
+# cBay
+
+**About**
+
+An OCaml full-stack application that simulates a marketplace, where users can buy, sell, view, and make offers on items. 
+See `report.pdf` for the overall report of this project. 
+See individual folders for frontend and backend descriptions.
+
+**Instructions**
+
+cBay is composed of a frontend and backend system across two repositories.
+
+Both of these repositories contain identical modules for type information that 
+both frontend and backend share. These modules include User, Item, Offer, 
+Transaction, Basic. 
+
+The remainder of the frontend repository is unique to the frontend containing
+modules for frontend purposes.
+
+The remainder of the backend repository is unique to the backend containing
+modules for backend purposes.
+
+When constructing our LOC count, we add these 3 components as shared modules + 
+unique frontend code + unique backend code. 
+
+LOC Breakdown:
+Shared modules: 163
+Unique backend: 1488
+Unique frontend: 948
+Total system: 2,599
+
+
+NOTE NOTE NOTE NOTE: for whoevers reading this (not related to lines of code) but
+when running make docs to produce documents for both our frontend and backend, 
+you may receive errors initially due to packages. These errors should not affect
+the docs... proceed as if everything were chill. -ceo and founder of cBay, tedi
