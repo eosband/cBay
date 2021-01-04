@@ -30,7 +30,7 @@ Unique frontend: 948
 Total system: 2,599
 
 
-NOTE NOTE NOTE NOTE: for whoevers reading this (not related to lines of code) but
+NOTE: for whoevers reading this (not related to lines of code) but
 when running make docs to produce documents for both our frontend and backend, 
 you may receive errors initially due to packages. These errors should not affect
-the docs... proceed as if everything were chill. -ceo and founder of cBay, tedi
+the docs... proceed as if everything were chill. -ceo and founder of cBay, Eric
